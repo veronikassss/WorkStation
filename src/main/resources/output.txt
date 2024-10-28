@@ -1,0 +1,4 @@
+Andrew,19,Moscow
+Pasha,23,Lipetsk
+Nasty,24,Kasan
+Oleg,28,Novosibirsk

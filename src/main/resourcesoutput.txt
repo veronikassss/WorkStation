@@ -1,0 +1,3 @@
+Andrew,19,Moscow
+Nasty,24,Kasan
+Oleg,28,Novosibirsk
